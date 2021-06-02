@@ -61,7 +61,7 @@ def clasificar_huevos(lista_x_huevos):
 
 
     lista_diccionarios = []
-    diccionario_Jumbo = {"tipo_huevo": "Jumbo", "numero_huevos": 0, "numero_bandejas": 0}
+    diccionario_Jumbo = {"tipo_huevo": "Jumbo", "numero_huevos": 0, "numero_bandejas": 0} # ---- > Really? jajaajaj
     diccionario_AAA = {"tipo_huevo": "AAA", "numero_huevos": 0, "numero_bandejas": 0}
     diccionario_AA = {"tipo_huevo": "AA", "numero_huevos": 0, "numero_bandejas": 0}
     diccionario_A = {"tipo_huevo": "A", "numero_huevos": 0, "numero_bandejas": 0}
